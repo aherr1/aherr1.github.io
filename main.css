@@ -60,6 +60,14 @@ h6 {
     letter-spacing: 3px;
 }
 
+h5 {
+    text-align: center;
+    color: black;
+    font-family: neonPixel2;
+    font-size: 13px;
+    letter-spacing: 3px;
+}
+
 .center {
     display: block;
     margin-left: auto;
