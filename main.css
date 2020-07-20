@@ -7,7 +7,7 @@ src: url(Montserrat-Bold.otf);
 
 body{
 
-    background-image: url(light.png);
+    background-image: url(darkbg.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -48,7 +48,7 @@ h1{
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
     left: 0;
-    background-image: url(gradient.jpg.png); /* Black*/
+    background-image: url(lightbg.png); /* Black*/
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 60px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
