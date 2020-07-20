@@ -69,7 +69,7 @@ h1{
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
     font-family: neonPixel;
-    color: #e2faff;
+    color: dimgray;
 }
 
 .menu{
