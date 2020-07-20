@@ -3,6 +3,11 @@ font-family: neonPixel;
 src: url(Montserrat-Bold.otf);
 }
 
+@font-face {
+    font-family: neonPixel2;
+    src: url(Montserrat-Medium.otf);
+}
+
 
 
 body{
@@ -23,8 +28,8 @@ h1{
 h6 {
     text-align: center;
     color: white;
-    font-family: neonPixel;
-    font-size: 30px;
+    font-family: neonPixel2;
+    font-size: 20px;
     letter-spacing: 3px;
 }
 
