@@ -63,8 +63,9 @@ h6 {
 h5 {
     text-align: center;
     color: black;
-    font-family: neonPixel2;
+    font-family: neonPixel;
     font-size: 13px;
+    letter-spacing: 1px;
 }
 
 .btn {
