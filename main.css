@@ -1,6 +1,6 @@
 @font-face {
 font-family: neonPixel;
-src: url(BASKVILL.TTF);
+src: url(Montserrat-Bold.otf);
 }
 
 
@@ -60,7 +60,7 @@ h1{
     font-family: neonPixel;
     padding: 8px 8px 8px 32px;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 20px;
     color: black;
     display: block;
     transition: 0.3s;
