@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Addison Herr</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+
+    <script>
+        /* Set the width of the side navigation to 250px and the left margin of the page content to 250px and add a black background color to body */
+        function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+        document.getElementById("main").style.marginLeft = "250px";
+
+
+        }
+
+        /* Set the width of the side navigation to 0 and the left margin of the page content to 0, and the background color of body to white */
+        function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft = "0";
+        document.body.style.backgroundColor = "white";
+        }
+
+
+    </script>
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="index.html">HOME</a>
+        <a href="game.html">GAME DESIGN</a>
+        <a href="vr.html">VIRTUAL REALITY</a>
+        <a href="audiovisual.html">AUDIOVISUAL</a>
+        <a href="motion.html">MOTION GRAPHICS</a>
+        <a href="dance.html">DANCE</a>
+        <a href="#"></a>
+    </div>
+
+    <!-- Use any element to open the sidenav -->
+    <span onclick="openNav()" class="menu"><img src="hamburger.png" alt="menu button" height="50" width="50" class="padding"></span>
+
+    <!-- Add all page content inside this div if you want the side nav to push page content to the right (not used if you only want the sidenav to sit on top of the page -->
+    <div id="main">
+        <h1 class="textcenter">MOTION GRAPHICS</h1>
+        <h6 class="textcenter">PROMOTIONAL MATERIALS FOR NSQK DANCE. CREATING MORE WORK IN THIS MEDIUM FOR THE GLAMOR PROJECT, CHECK BACK LATER.</h6>
+        <div class="album py-5">
+            <div class="container">
+                <div class="row" style="padding-bottom: 5%;">
+                    <div class="col-md-12">
+                        <div class="card mb-12 shadow-sm" style="width: 36rem;">
+                            <img class="card-img-top" loading="eager" src="voidteaser.gif?width=36rem">
+                            <div class="card-body">
+                                <h5 class="card-text">TEASER: NSQK ENTERS THE VOID</h5>
+                                <div class="text-center">
+                                    <a class="btn btn-outline-dark" href="https://www.youtube.com/watch?v=aJAKzktdqNY" role="button">WATCH</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row" style="padding-bottom: 5%;">
+                    <div class="col-md-12">
+                        <div class="card mb-12 shadow-sm" style="width: 36rem;">
+                            <img class="card-img-top" loading="eager" src="milk.gif?width=36rem">
+                            <div class="card-body">
+                                <h5 class="card-text">INTRO: NSQK AT SPOCOM 2019</h5>
+                                <div class="text-center">
+                                    <a class="btn btn-outline-dark" href="https://www.youtube.com/watch?v=J-eI3CrnHHc" role="button">WATCH</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</body>
+</html>
+<!--
+
+
+-->
