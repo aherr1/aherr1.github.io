@@ -5,97 +5,55 @@
 
 @-webkit-keyframes animated-rainbow-shadow {
     0% {
-        text-shadow: 0px 0px transparent, 1px 1px #3772FF, 2px 2px #F038FF, 3px 3px #F038FF, 4px 4px #EF709D, 5px 5px #EF709D, 6px 6px #E2EF70, 7px 7px #E2EF70, 8px 8px #70E4EF, 9px 9px #70E4EF, 10px 10px #3772FF;
-    }
-
-    10% {
-        text-shadow: 0px 0px transparent, 1px 1px #F038FF, 2px 2px #F038FF, 3px 3px #EF709D, 4px 4px #EF709D, 5px 5px #E2EF70, 6px 6px #E2EF70, 7px 7px #70E4EF, 8px 8px #70E4EF, 9px 9px #3772FF, 10px 10px #3772FF;
+        text-shadow: 0px 0px transparent, 1px 1px #FF8600, 2px 2px #01FE01, 3px 3px #3500FF, 4px 4px #8C00FC, 5px 5px #ED0003;
     }
 
     20% {
-        text-shadow: 0px 0px transparent, 1px 1px #F038FF, 2px 2px #EF709D, 3px 3px #EF709D, 4px 4px #E2EF70, 5px 5px #E2EF70, 6px 6px #70E4EF, 7px 7px #70E4EF, 8px 8px #3772FF, 9px 9px #3772FF, 10px 10px #F038FF;
-    }
-
-    30% {
-        text-shadow: 0px 0px transparent, 1px 1px #EF709D, 2px 2px #EF709D, 3px 3px #E2EF70, 4px 4px #E2EF70, 5px 5px #70E4EF, 6px 6px #70E4EF, 7px 7px #3772FF, 8px 8px #3772FF, 9px 9px #F038FF, 10px 10px #F038FF;
+        text-shadow: 0px 0px transparent, 1px 1px #01FE01, 2px 2px #3500FF, 3px 3px #8C00FC, 4px 4px #ED0003, 5px 5px #FF8600;
     }
 
     40% {
-        text-shadow: 0px 0px transparent, 1px 1px #EF709D, 2px 2px #E2EF70, 3px 3px #E2EF70, 4px 4px #70E4EF, 5px 5px #70E4EF, 6px 6px #3772FF, 7px 7px #3772FF, 8px 8px #F038FF, 9px 9px #F038FF, 10px 10px #EF709D;
-    }
-
-    50% {
-        text-shadow: 0px 0px transparent, 1px 1px #E2EF70, 2px 2px #E2EF70, 3px 3px #70E4EF, 4px 4px #70E4EF, 5px 5px #3772FF, 6px 6px #3772FF, 7px 7px #F038FF, 8px 8px #F038FF, 9px 9px #EF709D, 10px 10px #EF709D;
+        text-shadow: 0px 0px transparent, 1px 1px #3500FF, 2px 2px #8C00FC, 3px 3px #ED0003, 4px 4px #FF8600, 5px 5px #01FE01;
     }
 
     60% {
-        text-shadow: 0px 0px transparent, 1px 1px #E2EF70, 2px 2px #70E4EF, 3px 3px #70E4EF, 4px 4px #3772FF, 5px 5px #3772FF, 6px 6px #F038FF, 7px 7px #F038FF, 8px 8px #EF709D, 9px 9px #EF709D, 10px 10px #E2EF70;
-    }
-
-    70% {
-        text-shadow: 0px 0px transparent, 1px 1px #70E4EF, 2px 2px #70E4EF, 3px 3px #3772FF, 4px 4px #3772FF, 5px 5px #F038FF, 6px 6px #F038FF, 7px 7px #EF709D, 8px 8px #EF709D, 9px 9px #E2EF70, 10px 10px #E2EF70;
+        text-shadow: 0px 0px transparent, 1px 1px #8C00FC, 2px 2px #ED0003, 3px 3px #FF8600, 4px 4px #01FE01, 5px 5px #3500FF;
     }
 
     80% {
-        text-shadow: 0px 0px transparent, 1px 1px #70E4EF, 2px 2px #3772FF, 3px 3px #3772FF, 4px 4px #F038FF, 5px 5px #F038FF, 6px 6px #EF709D, 7px 7px #EF709D, 8px 8px #E2EF70, 9px 9px #E2EF70, 10px 10px #70E4EF;
-    }
-
-    90% {
-        text-shadow: 0px 0px transparent, 1px 1px #3772FF, 2px 2px #3772FF, 3px 3px #F038FF, 4px 4px #F038FF, 5px 5px #EF709D, 6px 6px #EF709D, 7px 7px #E2EF70, 8px 8px #E2EF70, 9px 9px #70E4EF, 10px 10px #70E4EF;
+        text-shadow: 0px 0px transparent, 1px 1px #ED0003, 2px 2px #FF8600, 3px 3px #01FE01, 4px 4px #3500FF, 5px 5px #8C00FC;
     }
 
     100% {
-        text-shadow: 0px 0px transparent, 1px 1px #3772FF, 2px 2px #F038FF, 3px 3px #F038FF, 4px 4px #EF709D, 5px 5px #EF709D, 6px 6px #E2EF70, 7px 7px #E2EF70, 8px 8px #70E4EF, 9px 9px #70E4EF, 10px 10px #3772FF;
+        text-shadow: 0px 0px transparent, 1px 1px #FF8600, 2px 2px #01FE01, 3px 3px #3500FF, 4px 4px #8C00FC, 5px 5px #ED0003;
     }
 }
 
 @keyframes animated-rainbow-shadow {
     0% {
-        text-shadow: 0px 0px transparent, 1px 1px #3772FF, 2px 2px #F038FF, 3px 3px #F038FF, 4px 4px #EF709D, 5px 5px #EF709D, 6px 6px #E2EF70, 7px 7px #E2EF70, 8px 8px #70E4EF, 9px 9px #70E4EF, 10px 10px #3772FF;
-    }
-
-    10% {
-        text-shadow: 0px 0px transparent, 1px 1px #F038FF, 2px 2px #F038FF, 3px 3px #EF709D, 4px 4px #EF709D, 5px 5px #E2EF70, 6px 6px #E2EF70, 7px 7px #70E4EF, 8px 8px #70E4EF, 9px 9px #3772FF, 10px 10px #3772FF;
+        text-shadow: 0px 0px transparent, 1px 1px #FF8600, 2px 2px #01FE01, 3px 3px #3500FF, 4px 4px #8C00FC, 5px 5px #ED0003;
     }
 
     20% {
-        text-shadow: 0px 0px transparent, 1px 1px #F038FF, 2px 2px #EF709D, 3px 3px #EF709D, 4px 4px #E2EF70, 5px 5px #E2EF70, 6px 6px #70E4EF, 7px 7px #70E4EF, 8px 8px #3772FF, 9px 9px #3772FF, 10px 10px #F038FF;
-    }
-
-    30% {
-        text-shadow: 0px 0px transparent, 1px 1px #EF709D, 2px 2px #EF709D, 3px 3px #E2EF70, 4px 4px #E2EF70, 5px 5px #70E4EF, 6px 6px #70E4EF, 7px 7px #3772FF, 8px 8px #3772FF, 9px 9px #F038FF, 10px 10px #F038FF;
+        text-shadow: 0px 0px transparent, 1px 1px #01FE01, 2px 2px #3500FF, 3px 3px #8C00FC, 4px 4px #ED0003, 5px 5px #FF8600;
     }
 
     40% {
-        text-shadow: 0px 0px transparent, 1px 1px #EF709D, 2px 2px #E2EF70, 3px 3px #E2EF70, 4px 4px #70E4EF, 5px 5px #70E4EF, 6px 6px #3772FF, 7px 7px #3772FF, 8px 8px #F038FF, 9px 9px #F038FF, 10px 10px #EF709D;
-    }
-
-    50% {
-        text-shadow: 0px 0px transparent, 1px 1px #E2EF70, 2px 2px #E2EF70, 3px 3px #70E4EF, 4px 4px #70E4EF, 5px 5px #3772FF, 6px 6px #3772FF, 7px 7px #F038FF, 8px 8px #F038FF, 9px 9px #EF709D, 10px 10px #EF709D;
+        text-shadow: 0px 0px transparent, 1px 1px #3500FF, 2px 2px #8C00FC, 3px 3px #ED0003, 4px 4px #FF8600, 5px 5px #01FE01;
     }
 
     60% {
-        text-shadow: 0px 0px transparent, 1px 1px #E2EF70, 2px 2px #70E4EF, 3px 3px #70E4EF, 4px 4px #3772FF, 5px 5px #3772FF, 6px 6px #F038FF, 7px 7px #F038FF, 8px 8px #EF709D, 9px 9px #EF709D, 10px 10px #E2EF70;
-    }
-
-    70% {
-        text-shadow: 0px 0px transparent, 1px 1px #70E4EF, 2px 2px #70E4EF, 3px 3px #3772FF, 4px 4px #3772FF, 5px 5px #F038FF, 6px 6px #F038FF, 7px 7px #EF709D, 8px 8px #EF709D, 9px 9px #E2EF70, 10px 10px #E2EF70;
+        text-shadow: 0px 0px transparent, 1px 1px #8C00FC, 2px 2px #ED0003, 3px 3px #FF8600, 4px 4px #01FE01, 5px 5px #3500FF;
     }
 
     80% {
-        text-shadow: 0px 0px transparent, 1px 1px #70E4EF, 2px 2px #3772FF, 3px 3px #3772FF, 4px 4px #F038FF, 5px 5px #F038FF, 6px 6px #EF709D, 7px 7px #EF709D, 8px 8px #E2EF70, 9px 9px #E2EF70, 10px 10px #70E4EF;
-    }
-
-    90% {
-        text-shadow: 0px 0px transparent, 1px 1px #3772FF, 2px 2px #3772FF, 3px 3px #F038FF, 4px 4px #F038FF, 5px 5px #EF709D, 6px 6px #EF709D, 7px 7px #E2EF70, 8px 8px #E2EF70, 9px 9px #70E4EF, 10px 10px #70E4EF;
+        text-shadow: 0px 0px transparent, 1px 1px #ED0003, 2px 2px #FF8600, 3px 3px #01FE01, 4px 4px #3500FF, 5px 5px #8C00FC;
     }
 
     100% {
-        text-shadow: 0px 0px transparent, 1px 1px #3772FF, 2px 2px #F038FF, 3px 3px #F038FF, 4px 4px #EF709D, 5px 5px #EF709D, 6px 6px #E2EF70, 7px 7px #E2EF70, 8px 8px #70E4EF, 9px 9px #70E4EF, 10px 10px #3772FF;
+        text-shadow: 0px 0px transparent, 1px 1px #FF8600, 2px 2px #01FE01, 3px 3px #3500FF, 4px 4px #8C00FC, 5px 5px #ED0003;
     }
 }
-
-
 
 @font-face {
 font-family: neonPixel;
