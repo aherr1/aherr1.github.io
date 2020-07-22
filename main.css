@@ -1,3 +1,16 @@
+@keyframes animate {
+    0%, 100% {
+        transform: translateY(-.5 em) 
+    }
+
+    50% {
+        transform: translateY(.5 em);
+    }
+}
+
+
+
+
 .rainbow {
     -webkit-animation: animated-rainbow-shadow 1s infinite;
     animation: animated-rainbow-shadow 1s infinite;
@@ -58,6 +71,10 @@
 @font-face {
 font-family: neonPixel;
 src: url(Montserrat-Bold.otf);
+}
+
+.wavy-text {
+    filter: url('#wavy');
 }
 
 @font-face {
